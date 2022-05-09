@@ -1,4 +1,6 @@
 - installing apache
+- php installed
+- creating php configuration file from template
 - creating config file from templete
 - creating virtual host from template
 - creating documentroot for virtualhost
