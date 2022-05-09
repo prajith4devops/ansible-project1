@@ -1,5 +1,6 @@
 - installing apache
 - creating config file from templete
 - creating virtual host from template
+- creating documentroot for virtualhost
 - restarting apache
 
